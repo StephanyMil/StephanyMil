@@ -1,4 +1,8 @@
 ### Hi there 👋
+⚡ I'm a Software Engineering student
+🌱 I’m currently learning JavaScript, Java
+🔭 I’m currently working on C/C++
+📫 How to reach me: stephanymilhomem56@gmail.com
 
 <!--
 **StephanyMil/StephanyMil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
