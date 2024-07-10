@@ -1,9 +1,7 @@
-# 👋 Hello, Devs!! 
-### Welcome to my Github profile.
-## My name is Stephany!
+# Stephany Milhomem
 
-## I use
+## Hello everyone!!
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg" />
+Tenho 19 anos, sou de Goiás e estou no 5° péríodo de engenharia de software na UFG.
 
-## I'm learning
+### Tecnologias e ferramentas
