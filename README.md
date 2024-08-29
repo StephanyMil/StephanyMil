@@ -7,10 +7,6 @@
 </br>
 <h1 align="left">Stephany Milhomem</h1>
 
-</br>
-</br>
-</br>
-
 ## Hello everyone!!!
 
 Tenho 19 anos, sou de Goiás e estou no 5° período de engenharia de software na UFG.
@@ -21,6 +17,7 @@ Tenho 19 anos, sou de Goiás e estou no 5° período de engenharia de software n
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title = "BOOTSTRAP"/></code>
 
 <div>
 <a href="https://github.com/StephanyMil">
