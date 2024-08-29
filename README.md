@@ -21,5 +21,5 @@ Tenho 19 anos, sou de Goiás e estou no 5° período de engenharia de software n
 <a href="https://github.com/StephanyMil">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyMil&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyMil&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/seu-usuário-aqui/StephanyMil/blob/output/github-contribution-grid-snake.svg)
