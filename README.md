@@ -1,5 +1,5 @@
 # Stephany Milhomem 
-<img width="200px" align="right" src="![octocat-1710975636498](https://github.com/user-attachments/assets/9913bea9-4e49-46bc-a127-3b4abf3a5517)">
+<img width="200px" align="right" src="https://github.com/user-attachments/assets/9913bea9-4e49-46bc-a127-3b4abf3a5517">
 
 ## Hello everyone!!!
 
