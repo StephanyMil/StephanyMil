@@ -8,14 +8,13 @@
 </br>
 </br>
 <h1 align="left">Stephany Milhomem</h1>
-
+</br>
 <h2 align="left">Hello everyone!!!</h2>
-
 I'm a 19-year-old Brazilian girl who studies software engineering at the Federal University of Goiás.
 I always seek to delve deeper into the technology area and at the moment I am concentrating my studies in the Front-end area but without leaving the Back-end in the background.
-
+</br>
 <h2 align="left">Technologies and tools that I have mastered or am learning</h2>
-
+</br>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
