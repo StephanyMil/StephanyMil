@@ -16,6 +16,7 @@ I always seek to delve deeper into the technology area and at the moment I am co
 <h2 align="left">Technologies and tools that I have mastered or am learning</h2>
 </br>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title = "C"/></code>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
