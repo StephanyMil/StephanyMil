@@ -31,6 +31,7 @@ I always seek to delve deeper into the technology area and at the moment I am co
 </br>
 </br>
 </br>
+
 ### 📫 How to reach me:
 <div>
 <a href="https://www.instagram.com/milhomemstephany/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
