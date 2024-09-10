@@ -29,6 +29,16 @@ I always seek to delve deeper into the technology area and at the moment I am co
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title = "FIGMA"/></code>
 </br>
+</br>
+</br>
+### 📫 How to reach me:
+<div>
+<a href="https://www.instagram.com/milhomemstephany/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:stephanymilhomem56@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/stephany-de-oliveira-sousa-milhomem-a32288246/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
+### 🔥 My stats:
 <div>
 <a href="https://github.com/StephanyMil">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyMil&layout=compact&langs_count=7&theme=dracula"/>
