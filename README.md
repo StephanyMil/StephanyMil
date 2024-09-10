@@ -11,9 +11,10 @@
 
 ## Hello everyone!!!
 
-Tenho 19 anos, sou de Goiás e estou no 5° período de engenharia de software na UFG.
+I'm a 19-year-old Brazilian girl who studies software engineering at the Federal University of Goiás.
+I always seek to delve deeper into the technology area and at the moment I am concentrating my studies in the Front-end area but without leaving the Back-end in the background.
 
-### Tecnologias e ferramentas
+### Technologies and tools that I have mastered or am learning
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
