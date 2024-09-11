@@ -3,10 +3,6 @@
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
-
 <div dsplay="inline-block">
   <h1 align="left">Stephany Milhomem</h1>
 </div>
@@ -33,8 +29,6 @@ I always seek to delve deeper into the technology area and at the moment I am co
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title = "GIT"/>
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title = "GITHUB"/>
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title = "FIGMA"/>
-
-</br>
 
 ### 📫 How to reach me:
 <div>
