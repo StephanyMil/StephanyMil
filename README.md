@@ -1,14 +1,11 @@
-<img align="right" width="150px" style="margin-top:-20px" src="https://github.com/user-attachments/assets/9913bea9-4e49-46bc-a127-3b4abf3a5517" alt="Stephany Milhomem">
+<img align="right" width="170px" style="margin-top:-20px" src="https://github.com/user-attachments/assets/9913bea9-4e49-46bc-a127-3b4abf3a5517" alt="Stephany Milhomem">
   
 </br>
 </br>
 </br>
-<div dsplay="inline-block">
-  <h1 align="left">Stephany Milhomem</h1>
-</div>
+<h1 align="left">Stephany Milhomem</h1>
 
 ## 👋 Hello everyone!!!
-
 I'm a 19-year-old Brazilian girl who studies software engineering at the Federal University of Goiás.
 I always seek to delve deeper into the technology area and at the moment I am concentrating my studies in the Front-end area but without leaving the Back-end in the background.
 </br>
