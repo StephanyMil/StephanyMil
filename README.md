@@ -16,8 +16,6 @@
 I'm a 19-year-old Brazilian girl who studies software engineering at the Federal University of Goiás.
 I always seek to delve deeper into the technology area and at the moment I am concentrating my studies in the Front-end area but without leaving the Back-end in the background.
 </br>
-<h2 align="left">Technologies and tools that I have mastered or am learning</h2>
-</br>
 
 ### 🖥️ Tecnologias e Ferramentas:
 
