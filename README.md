@@ -37,9 +37,9 @@ I always seek to delve deeper into the technology area and at the moment I am co
 </div>
 
 ### 🔥 My stats:
-<div>
+<p align="center">
   <a href="https://github.com/StephanyMil">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyMil&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=StephanyMil&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=StephanyMil&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&theme=dracula"/>
   </a>
-</div>
+</p>
