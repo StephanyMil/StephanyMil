@@ -6,7 +6,7 @@
 <div dsplay="inline-block">
   <h1 align="left">Stephany Milhomem</h1>
 </div>
-<h2 align="left">Hello everyone!!!</h2>
+## 👋 Hello everyone!!!
 I'm a 19-year-old Brazilian girl who studies software engineering at the Federal University of Goiás.
 I always seek to delve deeper into the technology area and at the moment I am concentrating my studies in the Front-end area but without leaving the Back-end in the background.
 </br>
