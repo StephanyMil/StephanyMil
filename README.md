@@ -35,8 +35,6 @@ I always seek to delve deeper into the technology area and at the moment I am co
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title = "FIGMA"/>
 
 </br>
-</br>
-</br>
 
 ### 📫 How to reach me:
 <div>
