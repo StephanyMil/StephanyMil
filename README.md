@@ -13,21 +13,23 @@ I'm a 19-year-old Brazilian girl who studies software engineering at the Federal
 I always seek to delve deeper into the technology area and at the moment I am concentrating my studies in the Front-end area but without leaving the Back-end in the background.
 </br>
 
-### 🖥️ Tecnologias e Ferramentas:
+### 🖥️ Technologies and Tools:
 
-<img width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="C"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/>
-<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title = "REACT"/>
-<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title = "TYPESCRIPT"/>
-<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title = "BOOTSTRAP"/>
-<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title = "LINUX"/>
-<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title = "ARCHLINUX"/>
-<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title = "GIT"/>
-<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title = "FIGMA"/>
+<p align="center">
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="C"/>&nbsp;
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP"/>&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/>
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title = "REACT"/>
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title = "TYPESCRIPT"/>
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title = "BOOTSTRAP"/>
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title = "LINUX"/>
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title = "ARCHLINUX"/>
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title = "GIT"/>
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title = "FIGMA"/>
+</p>
 
 ### 📫 How to reach me:
 <div>
