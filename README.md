@@ -1,9 +1,13 @@
+<img align="right" width="150px" style="margin-top:-20px" src="https://github.com/user-attachments/assets/9913bea9-4e49-46bc-a127-3b4abf3a5517" alt="Stephany Milhomem">
+  
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h1>Stephany Milhomem</h1>
-  <img width="200px" src="https://github.com/user-attachments/assets/9913bea9-4e49-46bc-a127-3b4abf3a5517" alt="Stephany Milhomem">
-</div>
+<div dsplay="inline-block"><h1>Stephany Milhomem</h1></div>
 
 </br>
 <h2 align="left">Hello everyone!!!</h2>
