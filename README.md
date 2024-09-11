@@ -7,7 +7,9 @@
 </br>
 </br>
 
-<div dsplay="inline-block"><h1>Stephany Milhomem</h1></div>
+<div dsplay="inline-block">
+  <h1 align="left">Stephany Milhomem</h1>
+</div>
 
 </br>
 <h2 align="left">Hello everyone!!!</h2>
