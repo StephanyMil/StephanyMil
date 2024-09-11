@@ -1,7 +1,10 @@
 
 
-<h1 align="left">Stephany Milhomem</h1>
-<hi align="right"> <img width="200px" align="right" src="https://github.com/user-attachments/assets/9913bea9-4e49-46bc-a127-3b4abf3a5517"></hi>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h1>Stephany Milhomem</h1>
+  <img width="200px" src="https://github.com/user-attachments/assets/9913bea9-4e49-46bc-a127-3b4abf3a5517" alt="Stephany Milhomem">
+</div>
+
 </br>
 <h2 align="left">Hello everyone!!!</h2>
 I'm a 19-year-old Brazilian girl who studies software engineering at the Federal University of Goiás.
