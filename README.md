@@ -27,7 +27,6 @@ I always seek to delve deeper into the technology area and at the moment I am co
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title = "LINUX"/>
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title = "ARCHLINUX"/>
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title = "GIT"/>
-<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title = "GITHUB"/>
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title = "FIGMA"/>
 
 ### 📫 How to reach me:
@@ -39,6 +38,8 @@ I always seek to delve deeper into the technology area and at the moment I am co
 
 ### 🔥 My stats:
 <div>
-<a href="https://github.com/StephanyMil">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyMil&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/StephanyMil">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanyMil&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=StephanyMil&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
