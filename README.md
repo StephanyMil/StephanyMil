@@ -1,5 +1,7 @@
-<img width="200px" align="right" src="https://github.com/user-attachments/assets/9913bea9-4e49-46bc-a127-3b4abf3a5517">
 
+
+<h1 align="left">Stephany Milhomem
+  
 </br>
 </br>
 </br>
@@ -7,7 +9,8 @@
 </br>
 </br>
 </br>
-<h1 align="left">Stephany Milhomem</h1>
+  <img width="200px" align="right" src="https://github.com/user-attachments/assets/9913bea9-4e49-46bc-a127-3b4abf3a5517">
+</h1>
 </br>
 <h2 align="left">Hello everyone!!!</h2>
 I'm a 19-year-old Brazilian girl who studies software engineering at the Federal University of Goiás.
