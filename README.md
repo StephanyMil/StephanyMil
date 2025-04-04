@@ -26,7 +26,8 @@ I always seek to delve deeper into the technology area and at the moment I am co
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title = "ARCHLINUX"/>
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title = "GIT"/>
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title = "FIGMA"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg"/>
 </p>
 
 ### 📫 How to reach me:
